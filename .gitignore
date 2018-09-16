@@ -1,0 +1,14 @@
+# non-maven
+bin
+
+# eclipse
+.settings
+.classpath
+.project
+
+# idea
+.idea/
+*.iml
+
+# maven
+target
